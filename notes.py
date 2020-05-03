@@ -1,4 +1,4 @@
-
+# this is omment
 import os
 import time
 import json
@@ -17,7 +17,7 @@ class NotesApp:
         while True:
             print("I'm running")
             time.sleep(1)
-    
+
     def shutdown(self):
         print("Shutdown")
 
